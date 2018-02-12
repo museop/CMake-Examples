@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/libtest.dir/libtest.cpp.o  -o libtest  -L/home/museop/Desktop/CMake_Example/Example_05/library -Wl,-Bstatic -ltestStudent -Wl,-Bdynamic -Wl,-rpath,/home/museop/Desktop/CMake_Example/Example_05/library 
