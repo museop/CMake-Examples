@@ -6,8 +6,8 @@ set( PROJECT_LINK_LIBS libtestStudent.so )
 link_directories( library )
 
 # For the static library:
-set( PROJECT_LINK_LIBS libtestStudent.a )
-link_directories( library )
+# set( PROJECT_LINK_LIBS libtestStudent.a )
+# link_directories( library )
 
 include_directories( include )
 

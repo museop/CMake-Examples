@@ -1,3 +1,0 @@
-/home/museop/Desktop/CMake_Example/Example_05/CMakeFiles/edit_cache.dir
-/home/museop/Desktop/CMake_Example/Example_05/CMakeFiles/rebuild_cache.dir
-/home/museop/Desktop/CMake_Example/Example_05/CMakeFiles/libtest.dir
