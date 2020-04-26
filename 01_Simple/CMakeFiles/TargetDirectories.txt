@@ -1,3 +1,0 @@
-/home/museop/Desktop/CMake_Example/Example_01/CMakeFiles/edit_cache.dir
-/home/museop/Desktop/CMake_Example/Example_01/CMakeFiles/rebuild_cache.dir
-/home/museop/Desktop/CMake_Example/Example_01/CMakeFiles/hello.dir
