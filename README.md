@@ -12,5 +12,7 @@ Example 05: Using a Shared or Static Library
 
 Example 06: Specifying Target Output Path
 
+Example 07: Make Sub-Project
+
 # Reference
 [link](http://derekmolloy.ie/hello-world-introductions-to-cmake/)
