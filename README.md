@@ -10,6 +10,7 @@ Example 04: Building a Static Library (.a)
 
 Example 05: Using a Shared or Static Library
 
-# More Informations
-[link](http://derekmolloy.ie/hello-world-introductions-to-cmake/)
+Example 06: Specifying Target Output Path
 
+# Reference
+[link](http://derekmolloy.ie/hello-world-introductions-to-cmake/)
